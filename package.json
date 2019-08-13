@@ -1,6 +1,7 @@
 {
-  "name": "react-template",
-  "version": "0.1.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
